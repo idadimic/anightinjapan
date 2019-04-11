@@ -21,8 +21,8 @@ defaults:
     layout: post
 email: hi@anightinjapan.com
 description: A blog about Japan
-baseurl: ''
-url: ''
+baseurl: 
+url: 
 twitter_username: anightinjapan
 github_username: anightinjapan
 markdown: kramdown
